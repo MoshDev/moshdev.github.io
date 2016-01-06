@@ -21,13 +21,13 @@ footer-links:
   email: mr.ersan85@gmail.com
   facebook:
   flickr:
-  github: https://github.com/MoshDev
+  github: MoshDev
   instagram:
-  linkedin: https://ie.linkedin.com/in/moshersan
+  linkedin: moshersan
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: MoshErsan
-  stackoverflow: /users/737925/moshersan # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/737925/moshersan # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: u/0/108849790537641397760 # anything in your profile username that comes after plus.google.com/
 
